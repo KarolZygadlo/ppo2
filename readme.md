@@ -8,5 +8,5 @@ Strona kursu dla semestru IV na kierunku Informatyka na Wydziale Nauk Techniczny
 1. Techniczna dokumentacja projektu
 1. Użytkowa dokumentacja projektu
 1. Estymowanie i specyfikowanie projektów
-1. Estymowanie i specyfikowanie projektów
+1. Testowanie aplikacji
 1. Podsumowanie semestru
