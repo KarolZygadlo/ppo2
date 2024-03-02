@@ -53,6 +53,10 @@ Model ten pomaga zrozumieć, jak zintegrowany system biblioteczny wspiera zarzą
 
 ![Model Domenowy Biblioteki](../img/library-domain-model.png)
 
+## Model Domenowy Parkingu - Przykład Diagramu Klas UML
+
+![Model Domenowy Parkingu](../img/parking-domain-model.bmp)
+
 ### Zadanie do wykonania:
 
 Należy:
