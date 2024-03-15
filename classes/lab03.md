@@ -47,16 +47,12 @@ Wykorzystując te diagramy, inżynierowie mogą lepiej zrozumieć, jak komponent
 Należy:
 
 - Pobrać ze swojego repozytorium program z [Listy 7](https://github.com/krzysztofrewak/ppo/blob/main/classes/lab07.md) zaimplementowany na zajęciach z **Projektowania i programowania obiektowego I**.
-- Zastanowić się nad diagramem klas wybranego projektu; warto przejrzeć przykładowe diagramy na stronie [Przykładowe diagramy klas](https://www.uml-diagrams.org/class-diagrams-examples.html).
-- Za pomocą narzędzia [draw.io](https://draw.io) lub innego utworzyć diagram klas dla wybranego projektu.
-- Gotowy schemat (najlepiej w formie graficznej oraz XML) dołączyć do repozytorium Git; zalecane jest uporządkowanie zadań w odpowiadającym im katalogach.
-
-Dodatkowo, należy:
-
 - Zastanowić się nad diagramem zachowań wybranego projektu; warto przejrzeć przykładowe diagramy:
   - [Diagramy czynności (Activity Diagrams)](https://www.uml-diagrams.org/activity-diagrams.html)
   - [Diagramy stanów (State Machine Diagrams)](https://www.uml-diagrams.org/state-machine-diagrams.html)
   - [Diagramy przypadków użycia (Use Case Diagrams)](https://www.uml-diagrams.org/use-case-diagrams.html)
   - [Diagramy sekwencji (Sequence Diagrams)](https://www.uml-diagrams.org/sequence-diagrams.html)
+- Za pomocą narzędzia [draw.io](https://draw.io) lub innego utworzyć diagram zachowań dla wybranego projektu.
+- Gotowy schemat (najlepiej w formie graficznej oraz XML) dołączyć do repozytorium Git; zalecane jest uporządkowanie zadań w odpowiadającym im katalogach.
 
 Zachęcam do eksploracji wymienionych zasobów, aby uzyskać lepsze zrozumienie różnych typów diagramów i ich zastosowań w kontekście wybranego projektu.
