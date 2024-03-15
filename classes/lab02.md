@@ -61,7 +61,7 @@ Model ten pomaga zrozumieć, jak zintegrowany system biblioteczny wspiera zarzą
 
 Należy:
 
-- Pobrać ze swojego repozytorium program z [Listy 7](https://github.com/krzysztofrewak/ppo/blob/main/classes/lab04.md) lub końcowy projekt zaimplementowany na zajęciach z **Projektowania i programowania obiektowego I**.
+- Pobrać ze swojego repozytorium program z [Listy 7](https://github.com/krzysztofrewak/ppo/blob/main/classes/lab07.md) lub końcowy projekt zaimplementowany na zajęciach z **Projektowania i programowania obiektowego I**.
 - Zastanowić się nad diagramem klas wybranego projektu; warto przejrzeć przykładowe diagramy na stronie [https://www.uml-diagrams.org/class-diagrams-examples.html](https://www.uml-diagrams.org/class-diagrams-examples.html).
 - Za pomocą narzędzia [draw.io](https://draw.io) lub innego utworzyć diagram klas dla wybranego projektu.
 - Gotowy schemat (najlepiej w formie graficznej oraz XML) dołączyć do repozytorium Git; zalecane jest uporządkowanie zadań w odpowiadającym im katalogach.
