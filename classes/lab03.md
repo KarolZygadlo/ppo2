@@ -1,5 +1,11 @@
 ## UML: diagramy zachowań
 
+### Diagramy zachowań
+
+Diagramy zachowań UML to grupa diagramów służących do przedstawiania dynamicznych aspektów systemów. Skupiają się one na reprezentacji zachowań, interakcji oraz zmian stanów wewnątrz modelowanego systemu. W odróżnieniu od diagramów strukturalnych, które koncentrują się na statycznych elementach systemu (jak klasy czy komponenty), diagramy zachowań skupiają się na tym, jak elementy systemu współdziałają i reagują na różne zdarzenia.
+
+Głównym celem diagramów zachowań jest zapewnienie przejrzystego i zrozumiałego przedstawienia procesów i interakcji zachodzących w systemie. Umożliwiają one wizualizację sekwencji działań, przepływu sterowania, a także reakcji systemu na określone zdarzenia. Poprzez abstrakcyjną reprezentację procesów, te diagramy pomagają zidentyfikować potencjalne problemy, ułatwiają komunikację w zespole projektowym i stanowią ważne wsparcie w procesie weryfikacji oraz walidacji wymagań systemowych.
+
 #### Diagramy czynności (Activity Diagrams)
 
 Diagramy czynności w UML służą do przedstawiania przepływu sterowania lub przepływu danych. Są one szczególnie użyteczne w modelowaniu procesów biznesowych lub sekwencji kroków w ramach określonego przepływu pracy. 
