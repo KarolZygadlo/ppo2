@@ -1,9 +1,5 @@
 ## UML: diagramy zachowań
 
-### Zunifikowany język modelowania (UML)
-
-Zunifikowany Język Modelowania (UML) to standardowy język graficzny używany w inżynierii oprogramowania do wizualizacji, specyfikacji, projektowania i dokumentowania systemów oprogramowania. UML oferuje szereg diagramów, które można wykorzystać do reprezentacji różnych aspektów systemu. W ramach tego wykładu skoncentrujemy się na diagramach zachowań, które są kluczowe w modelowaniu i rozumieniu działania systemów.
-
 #### Diagramy czynności (Activity Diagrams)
 
 Diagramy czynności w UML służą do przedstawiania przepływu sterowania lub przepływu danych. Są one szczególnie użyteczne w modelowaniu procesów biznesowych lub sekwencji kroków w ramach określonego przepływu pracy. 
