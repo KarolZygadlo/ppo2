@@ -1,5 +1,9 @@
 ## UML: diagramy struktur
 
+### Zunifikowany język modelowania (UML)
+
+Zunifikowany Język Modelowania (UML) to standardowy język graficzny używany w inżynierii oprogramowania do wizualizacji, specyfikacji, projektowania i dokumentowania systemów oprogramowania. UML oferuje szereg diagramów, które można wykorzystać do reprezentacji różnych aspektów systemu. W ramach tego wykładu skoncentrujemy się na diagramach zachowań, które są kluczowe w modelowaniu i rozumieniu działania systemów.
+
 ### Diagramy struktur
 
 Diagramy strukturalne ilustrują statyczną strukturę elementów w systemie, pokazując relacje między obiektami. Prezentują one różne składniki systemu, takie jak klasy, obiekty, pakiety, moduły, fizyczne węzły, komponenty oraz interfejsy. Analogicznie do statycznych aspektów budynku, które obejmują istnienie i rozmieszczenie elementów takich jak ściany, drzwi czy okna, diagramy strukturalne ukazują podstawowe 'budulce' systemu informatycznego.
