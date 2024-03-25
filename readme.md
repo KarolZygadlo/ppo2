@@ -5,7 +5,7 @@ Strona kursu dla semestru IV na kierunku Informatyka na Wydziale Nauk Techniczny
 1. [Wprowadzenie do pracowni programowania obiektowego](./classes/lab01.md)
 1. [UML: diagramy struktur](./classes/lab02.md)
 1. [UML: diagramy zachowań](./classes/lab03.md)
-1. Techniczna dokumentacja projektu
+1. [Techniczna dokumentacja projektu](./classes/lab04.md)
 1. Użytkowa dokumentacja projektu
 1. Estymowanie i specyfikowanie projektów
 1. Testowanie aplikacji
